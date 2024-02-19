@@ -4,6 +4,9 @@
 ## Overview
 This project focuses on analyzing employee attrition in the HR department using Python, Jupyter Notebook, and Tableau. The data cleaning and preprocessing were performed using Pandas in Jupyter Notebook, and the insights were visualized through a Tableau dashboard.
 
+## Demo
+[Linkedin post](https://www.linkedin.com/posts/mohannad-tazi_dataanalysis-tableau-employeeattrition-activity-7165411045027598336-8Cb9?utm_source=share&utm_medium=member_desktop)
+
 ## Project Structure
 - **Jupyter Notebook:** `Project3__EDA-VIS.ipynb`
   - Data cleaning, preprocessing, and exploratory data analysis using Pandas.
